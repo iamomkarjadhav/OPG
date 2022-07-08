@@ -6,6 +6,7 @@ using System.Data.Entity;
 using MySql.Data.EntityFramework;
 using MVC_Entity_Framework.Models;
 
+// This is comment by Omkar Jadhav
 
 namespace MVC_Entity_Framework.DAL
 {
